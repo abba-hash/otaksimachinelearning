@@ -1,0 +1,9 @@
+{"level":"info","message":"listening on port 3000...","timestamp":"2022-05-14T19:24:15.485Z"}
+{"level":"info","message":"connected to Mongodb","timestamp":"2022-05-14T19:24:15.515Z"}
+{"level":"info","message":"listening on port 3000...","timestamp":"2022-05-14T19:24:51.324Z"}
+{"level":"info","message":"connected to Mongodb","timestamp":"2022-05-14T19:24:51.355Z"}
+{"message":"some thing failed during startup","stack":"Error: some thing failed during startup\n    at Timeout._onTimeout (/home/firae/Desktop/backend/index.js:8:11)\n    at listOnTimeout (node:internal/timers:557:17)\n    at processTimers (node:internal/timers:500:7)","level":"error","timestamp":"2022-05-14T19:24:55.495Z"}
+{"level":"info","message":"listening on port 3000...","timestamp":"2022-05-14T19:26:34.633Z"}
+{"level":"info","message":"connected to Mongodb","timestamp":"2022-05-14T19:26:34.669Z"}
+{"level":"info","message":"listening on port 3000...","timestamp":"2022-05-14T19:28:42.006Z"}
+{"level":"info","message":"connected to Mongodb","timestamp":"2022-05-14T19:28:42.036Z"}
